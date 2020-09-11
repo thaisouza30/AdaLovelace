@@ -21,5 +21,8 @@ Site desenvolvido no curso Program{a}ria
 * CSS
 * Javascript
 
+Visite a página para ver o projeto ❤️
+https://thaisouza30.github.io/AdaLovelace/
+
 ---
 ⌨️ com ❤️ por Thais Melo de Souza 😊
